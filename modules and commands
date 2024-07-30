@@ -1,0 +1,9 @@
+Modules used:
+tkinter: https://www.geeksforgeeks.org/python-gui-tkinter/
+threading: https://www.tutorialspoint.com/the-threading-module-in-python
+requests: https://www.w3schools.com/python/module_requests.asp
+
+
+commands:
+-> git clone <github link>
+-> python3 temp_mail.py
