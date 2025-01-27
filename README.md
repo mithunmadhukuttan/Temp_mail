@@ -1,7 +1,10 @@
 # Temp_mail
 This is basically a temp mail generator with a mail box interface. It is a command line tool and is in python.
+
 1. Run the Temp mail generator using
+
    command: python3 New.py
+
 ![tempmail1](https://github.com/user-attachments/assets/457cdbbc-e1e2-4ddf-9d79-8e240d9c393e)
 
 
