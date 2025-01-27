@@ -21,4 +21,6 @@ This is basically a temp mail generator with a mail box interface. It is a comma
 
 
 4. Refresh it to see the inbox
+
+   
 ![tempmail5](https://github.com/user-attachments/assets/2f8e1bab-414c-4785-bb25-8e919bccc92f)
